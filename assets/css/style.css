@@ -42,3 +42,24 @@ body {
     .btn:hover {
         background: #ff9900;
     }
+
+
+
+.privacy-note {
+    margin-top: 15px;
+    font-size: 14px;
+    opacity: 0.9;
+    color: #ffcc00; /* Brighter, more visible color */
+}
+
+    .privacy-note a {
+        color: #ffcc00;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+        .privacy-note a:hover {
+            color: #ff9900;
+        }
+
+
